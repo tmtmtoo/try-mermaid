@@ -17,5 +17,5 @@ graph LR;
     Hoge("🧑‍🦱 ほげ") -->|むしる| Hage("🧑‍🦲 はげ")
     Hoge --- Piyo(ぴよ):::clickable
 
-    click Piyo "./bar/yay.md" "nanika"
+    click Piyo "https://github.com/tmtmtoo/try-mermaid/blob/main/bar/yay.md" "nanika"
 ```
